@@ -1,0 +1,37 @@
+[
+  {
+    "product_id": 1,
+    "name": "iPhone 14",
+    "category": "Electronics",
+    "price": 80000,
+    "brand": "Apple",
+    "specs": {
+      "warranty": "1 year",
+      "voltage": "220V",
+      "battery": "3279mAh"
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 1500,
+    "brand": "Zara",
+    "sizes": ["S", "M", "L"],
+    "material": "Cotton",
+    "color": "Black"
+  },
+  {
+    "product_id": 3,
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-30",
+    "nutrition": {
+      "calories": 120,
+      "protein": "6g",
+      "fat": "3.5g"
+    }
+  }
+]
